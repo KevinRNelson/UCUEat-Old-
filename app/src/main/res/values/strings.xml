@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UC UEat</string>
+
+    <string name="nav_eateries">Eateries</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_account">Account</string>
+
+    <string name="dining_halls">Dining Halls</string>
+    <string name="cafes">Cafes</string>
+    <string name="food_trucks">Food Trucks</string>
+
+    <string name="eateries_search_hint">Search For Eateries</string>
+
+    <string name="view_all">view all</string>
+    <string name="remove">remove | </string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"> -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:color">@color/textColor</item>
+        <item name="android:background">?android:attr/listDivider</item>
+    </style>
+
+    <style name="AppTheme.PopUp">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+
+    <style name="AppTheme.EaterySearchBar">
+        <item name="floatingSearch_backgroundColor">@color/white</item>
+        <item name="floatingSearch_viewSearchInputTextColor">@color/textColor</item>
+        <item name="floatingSearch_viewSuggestionItemTextColor">@color/textColor</item>
+        <item name="floatingSearch_hintTextColor">@color/textColor</item>
+        <item name="floatingSearch_dividerColor">@color/white</item>
+        <item name="floatingSearch_clearBtnColor">@color/textColor</item>
+        <item name="floatingSearch_leftActionColor">@color/textColor</item>
+        <item name="floatingSearch_menuItemIconColor">@color/textColor</item>
+        <item name="floatingSearch_suggestionRightIconColor">@color/textColor</item>
+        <item name="floatingSearch_actionMenuOverflowColor">@color/textColor</item>
+    </style>
+
+</resources>
